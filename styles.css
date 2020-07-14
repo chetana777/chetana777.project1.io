@@ -1,0 +1,148 @@
+button{
+    background-color: rgb(255, 81, 0);
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    padding: 8px;
+    display: inline;
+    border-radius: 2px;
+   
+
+   
+}
+#header{
+    background-color:#3B3737;
+}
+input{
+    color: white;
+    background-color: black;
+    margin-left: 800px;
+    border: none;
+    padding: 2px;
+    display: inline;
+    height: 20px;
+    
+
+}
+#logo{
+    height:100px;
+    width:100px;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+
+li{
+    float: left;
+}
+a:link,a:visited{
+    display: block;
+    color: white;
+    background-color:black;
+    width: 120px;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+    height: 30px;
+    
+}
+a:hover,a:active{
+    background-color: crimson;
+}
+ul{
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+    overflow: hidden;
+    margin-right: 200px;
+    margin-left: 300px;
+    margin-bottom: 10px;
+    
+    
+}
+.para{
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color:#3B3737;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+#span{
+    margin-left: 10px;
+}
+.para2{
+    margin-left: 100px;
+    background-color:white;
+    display: flex;
+    align-items: center;
+    color:black;
+}
+#img{
+    border-radius: 2px;
+    margin-left: 50px;
+   
+}
+.parent{
+    width: 1030px;
+    height: 400px;
+    background-color:white ;
+    margin-left: 100px;
+    padding-top: 50px;
+    padding-left:10px;
+    padding-right: 10px;
+}
+.child1{
+    width: 250px;
+    height: 300px;
+    float: left;
+    background-color:white;
+}
+.child2{
+    width: 250px;
+    height: 300px;
+    float: left;
+    background-color: white;
+    margin-left: 25PX;
+}
+.child3{
+    width: 400px;
+    height: 300px;
+    float: right;
+    background-color:white;
+    margin-left: 10px;
+}
+#hor{
+    width: 85%;
+    
+}
+#orange{
+    color: rgba(255, 136, 0, 0.918);
+}
+hr{
+    width:100%
+    
+}
+#img1{
+    height: 130px;
+    width: 130px;
+    
+
+}
+.child3-1{
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+}
+footer{
+    color: gray;
+    background-color:rgb(48,48,48) ;
+    text-align: center;
+    height: 50px;
+}
+code{
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
